@@ -1,27 +1,71 @@
-<h1 align="center">Opa, tudo bem ? Meu nome é: Swyann Vitor</h1>
-<h3 align="center"> Tenhamos sempre uma visão: “ Os três botões mais pressionados em qualquer ferramenta de dados são:  'OK', 'Cancelar' e 'Exportar para Excel' "</h3>
+<div align="center">
+  <img height="200" src="https://art.pixilart.com/ce3917b77cd3389.gif"  />
+</div>
 
-- 💪 Atualmente estou me dedicando a : **Python, Linguagem SQL e Excel , Power BI.**
+###
 
-- 📝 Eu escrevo regularmente artigos aqui : [https://www.linkedin.com/in/swyann-vitor/](https://www.linkedin.com/in/swyann-vitor/)
+<h1 align="center">👋 Opa, tudo bem ? 👋</h1>
 
-- 💬 Me Pergunte sobre :  **Power BI, Tableau e Storytelling com dados.**
+###
 
-- 📫 Como chegar até mim :  **swyannvitor079@gmail.com**
+<p align="center">👀 Tenhamos sempre uma visão: “ Os três botões mais pressionados em qualquer ferramenta de dados são: 'OK', 'Cancelar' e 'Exportar para Excel' "</p>
 
-- ☝️ Caso também queria conhecer minhas experiências: [https://www.linkedin.com/in/swyann-vitor/](https://www.linkedin.com/in/swyann-vitor/)
+###
 
-- ⚡ Uma curiosidade sobre mim ? **Sou altamente estoico.**
+<h2 align="left">Sobre mim :</h2>
 
-<h3 align="left"> Se conecte comigo :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swyann-vitor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swyann-vitor/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left"> Stacks :</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">💪 Atualmente estou me dedicando a : Python, Linguagem SQL e Excel , Power BI.<br><br>📝 Eu escrevo regularmente artigos aqui : https://www.linkedin.com/in/swyann-vitor/<br><br>💬 Me Pergunte sobre : Power BI, Tableau e Storytelling com dados.<br><br>📫 Como chegar até mim : swyannvitor079@gmail.com<br><br>☝️ Caso também queria conhecer minhas experiências: https://www.linkedin.com/in/swyann-vitor/<br><br>⚡ Uma curiosidade sobre mim ? Sou altamente estoico.</p>
 
-<!---
-Swyann/Swyann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h2 align="left">Stacks :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swyann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swyann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swyann&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/swyann-vitor/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
