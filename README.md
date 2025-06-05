@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="https://art.pixilart.com/ce3917b77cd3389.gif"  />
-</div>
-
-###
 
 <h1 align="center">👋 Opa, tudo bem ? 👋</h1>
 
