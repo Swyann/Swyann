@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Opa, tudo bem ? 👋</h1>
+<h1 align="center"> </h1>
 
 ###
 
