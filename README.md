@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">👀 Tenhamos sempre uma visão: “ Os três botões mais pressionados em qualquer ferramenta de dados são: 'OK', 'Cancelar' e 'Exportar para Excel' "</p>
+<p align="center"> Não há prazer maior para o ser humano, fiel ao seu próprio desenvolvimento, do que desafiar-se e encontrar-se na limitação de seu conhecimento, para só assim gozar de seu aprendizado. "</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">💪 Atualmente estou me dedicando a : Python, Linguagem SQL e Excel , Power BI.<br><br>📝 Eu escrevo regularmente artigos aqui : https://www.linkedin.com/in/swyann-vitor/<br><br>💬 Me Pergunte sobre : Power BI, Tableau e Storytelling com dados.<br><br>📫 Como chegar até mim : swyannvitor079@gmail.com<br><br>☝️ Caso também queria conhecer minhas experiências: https://www.linkedin.com/in/swyann-vitor/<br><br>⚡ Uma curiosidade sobre mim ? Sou altamente estoico.</p>
+<p align="left">💪 Atualmente estou me dedicando a : Python, Linguagem SQL e Excel , Power BI. e JAVA - Sim, Java. <br><br>📝 Eu escrevo regularmente artigos aqui : https://www.linkedin.com/in/swyann-vitor/<br><br>💬 Me Pergunte sobre : Power BI, Tableau e Storytelling com dados.<br><br>📫 Como chegar até mim : swyannvitor079@gmail.com<br><br>☝️ Caso também queria conhecer minhas experiências: https://www.linkedin.com/in/swyann-vitor/<br><br>⚡ Uma curiosidade sobre mim ? Sou altamente estoico.</p>
 
 ###
 
