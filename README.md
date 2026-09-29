@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center"> Não há prazer maior para o ser humano, fiel ao seu próprio desenvolvimento, do que desafiar-se e encontrar-se na limitação de seu conhecimento, para só assim gozar de seu aprendizado. "</p>
+<p align="center"> Não há prazer maior para o ser humano, fiel ao seu próprio desenvolvimento, do que desafiar-se e encontrar-se na limitação de seu conhecimento, para só assim gozar de seu aprendizado.</p>
 
 ###
 
