@@ -14,11 +14,12 @@
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim </h3></legend>
-  <img width="317" height="317" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/7bd22712-ffca-477c-8fbe-d58abde1685f" />
+  
 
   <em>
 Analista de TI e Analista de Dados</p>
   </em> 
+  <img width="317" height="317" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/7bd22712-ffca-477c-8fbe-d58abde1685f" />
   <br>
 <div align= "center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
