@@ -7,11 +7,11 @@
 
 ###
 
-<h2 align="left">Sobre mim :</h2>
+<h2 align="left">Sobre mim : <img  align="center" width="240" height="120" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" /> </h2>
 
 ###
 
-<p align="left">Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Python, SQL, Excel, Power BI e, sim, Java também..</p>
+<p align="left">Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Python, SQL, Excel, Power BI e, sim, Java..</p>
 
 ###
 
@@ -51,10 +51,11 @@
 
 <picture>
   
-  <img  align="center" width="600" height="200" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" />
+  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
+  
 </picture>
 
 ###
