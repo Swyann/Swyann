@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">💪 Atualmente estou me dedicando a : Python, Linguagem SQL e Excel , Power BI. e JAVA - Sim, Java. <br><br>📝 Eu escrevo regularmente artigos aqui : https://www.linkedin.com/in/swyann-vitor/<br><br>💬 Me Pergunte sobre : Power BI, Tableau e Storytelling com dados.<br><br>📫 Como chegar até mim : swyannvitor079@gmail.com<br><br>☝️ Caso também queria conhecer minhas experiências: https://www.linkedin.com/in/swyann-vitor/<br><br>⚡ Uma curiosidade sobre mim ? Sou altamente estoico.</p>
+<p align="left">Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Python, SQL, Excel, Power BI e, sim, Java também..</p>
 
 ###
 
