@@ -33,7 +33,7 @@ Analista de TI e Analista de Dados Migrando para Desenvolvimento Full Stack em J
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg"/>
+    
      
   </kbd>
 
