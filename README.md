@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92008A&width=435&lines=Stacks" alt="Typing SVG" />  </h2>
+<h2 align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=32&pause=1000&color=92008A&background=0E00FF00&width=435&lines=Stacks%3A+" alt="Typing SVG" /></a>  </h2>
 
 ###
 
