@@ -1,4 +1,4 @@
-<img width="533" height="300" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/f754702a-d7f0-42a4-9c6c-e2d004fdfac3" />
+<img width="1200" height="300" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/f754702a-d7f0-42a4-9c6c-e2d004fdfac3" />
 
 <h1 align="center">Tudo joia ? Me chamo Swyann, bora ?<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Desenvolvedor em Desenvolvimento | Full Stack Developer </h3>
