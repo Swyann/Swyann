@@ -11,12 +11,11 @@
 
 ###
 
-<p align="left">Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Python, SQL, Excel, Power BI e, sim, Java..</p>
+<p align="left">Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Java e Spring..</p>
 
 ###
 
-<h2 align="left">Stacks : <img width="50" height="50" alt="darth vader GIF by ailadi" src="https://github.com/user-attachments/assets/305cf16a-acae-4367-ae57-1ae5cbc4cf6c" />
-</h2>
+<h2 align="left">Stacks : <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92008A&width=435&lines=Stacks" alt="Typing SVG" /></a> </h2>
 
 ###
 
