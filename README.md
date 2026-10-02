@@ -15,7 +15,8 @@
 
 ###
 
-<h2 align="left">Stacks :</h2>
+<h2 align="left">Stacks : <img width="960" height="960" alt="darth vader GIF by ailadi" src="https://github.com/user-attachments/assets/305cf16a-acae-4367-ae57-1ae5cbc4cf6c" />
+</h2>
 
 ###
 
