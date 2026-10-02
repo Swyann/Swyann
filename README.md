@@ -50,6 +50,8 @@
 ###
 
 <picture>
+  
+  <img width="317" height="317" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
