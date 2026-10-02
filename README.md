@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Sobre mim : <img  align="center" width="200" height="1200" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" /> </h2>
+<h2 align="left">Sobre mim : <img  align="center" width="1200" height="200" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" /> </h2>
 
 ###
 
