@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img width="533" height="300" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/2437209d-2b76-4875-a323-367bd439ed7c" /> </h1>
+<h1 align="center"> <img width="800" height="200" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/2437209d-2b76-4875-a323-367bd439ed7c" /> </h1>
 
 ###
 
