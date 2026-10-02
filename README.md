@@ -1,15 +1,36 @@
+Olá, eu sou o Swyann Vitor! 👋
+"Não há prazer maior para o ser humano, fiel ao seu próprio desenvolvimento, do que desafiar-se e encontrar-se na limitação de seu conhecimento, para só assim gozar de seu aprendizado."
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Swyann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Swyann&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Swyann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👨‍💻 Sobre mim
+🔭 Atuando na infraestrutura e suporte de TI (COGETIN), em forte transição para Análise de Dados.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swyann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💡 Desenvolvedor de soluções corporativas como o ResolveAê e o Portal do Técnico.
 
----
-[![](https://komarev.com/ghpvc/?username=Swyann&icon=0&color=1)](https://visitcount.itsvg.in)
+🎓 Aprimorando diariamente o raciocínio analítico com: Python, SQL, Excel, Power BI e Java.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎮 Nos momentos de lazer: otimizando builds no Path of Exile ou jogando de Vel'Koz.
+
+📝 Escrevo regularmente artigos e reflexões sobre carreira no LinkedIn.
+
+📫 Como chegar até mim: swyannvitor079@gmail.com
+
+⚡ Curiosidade: Sou altamente estoico na forma de lidar com a vida e a lógica.
+
+💻 Tech Stack
+
+🏆 GitHub Trophies
+📊 GitHub Stats
+
+
+[
+
+](https://visitcount.itsvg.in)
+
+
+
+[
+
+](https://www.linkedin.com/in/swyann-vitor/)
+[
+
+](mailto:swyannvitor079@gmail.com)
