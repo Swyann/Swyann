@@ -1,4 +1,4 @@
-<img width="317" height="317" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/3dda025e-a66b-46e0-86b6-8ff3cf46710c" /><img width="1200" height="400" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/f754702a-d7f0-42a4-9c6c-e2d004fdfac3" />
+<img width="1200" height="400" alt="Star Wars Reveal GIF by Xbox" src="https://github.com/user-attachments/assets/f754702a-d7f0-42a4-9c6c-e2d004fdfac3" />
 
 <h1 align="center">Tudo joia ? Me chamo Swyann, bora ?<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Desenvolvedor em Desenvolvimento | Full Stack Developer </h3>
