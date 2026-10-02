@@ -27,9 +27,6 @@ Analista de TI e Anal</p>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </kbd>
   
@@ -51,11 +48,19 @@ Analista de TI e Anal</p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Swyann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swyann&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swyann&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swyann&theme=highcontrast&hide_border=true&border_radius=50&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=650&card_height=200)](https://git.io/streak-stats)
+
 </div>
+
+<picture>
+
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swyann/Swyann/output/pacman-contribution-graph.svg">
+
+</picture>
 
 <br>
 <br>
