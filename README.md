@@ -17,7 +17,7 @@
   
 
   <em>
-Analista de TI e Analista de Dados</p>
+Analista de TI e Analista de Dados Migrando para Desenvolvimento Full Stack em Java </p>
   </em> 
   <img width="1200" height="400" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/7bd22712-ffca-477c-8fbe-d58abde1685f" />
   <br>
