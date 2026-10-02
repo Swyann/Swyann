@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Sobre mim : <img  align="center" width="240" height="120" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" /> </h2>
+<h2 align="left">Sobre mim : Olá! No momento, estou aprofundando meus estudos e me dedicando a tecnologias como Python, SQL, Excel, Power BI e, sim, Java também. <br><br> <img  align="center" width="240" height="120" alt="star wars stormtrooper GIF" src="https://github.com/user-attachments/assets/b754dd36-8f6e-443f-a7b4-41167a9feb9e" /> </h2>
 
 ###
 
